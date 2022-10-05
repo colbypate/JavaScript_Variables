@@ -22,3 +22,6 @@ let author = "Patrick Rothfuss";
 let pageCount = 722;
 let bookmark = 456;
 let hasRead = true;
+
+console.log(`My name is ${firstName} ${lastName} and this is my first experience using ${language}.`)
+
